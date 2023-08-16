@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+  height: 99px ;
+  width: 100vw;
+  background-color: white;
+}
+.logo{
+
+width: 91%;
+margin: auto;
+height: 100%;
+display:flex;
+align-items: center;
+justify-content: space-between;
+}
+.logo img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  
+}
+.left{
+  display: flex;
+  align-items: center;
+}
+.right{
+  display: flex;
+  align-items: center;
+  
+}
+.left li{
+ list-style-type: none; 
+ margin-right: 15px;
+ font-weight: bold;
+
+}
+.right li{
+ list-style-type: none; 
+ margin-right: 15px;
+ font-weight: bold;
+
+
+
+}
