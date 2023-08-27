@@ -260,3 +260,18 @@ a{
     font-size: 14px;
   }
 }
+
+@media (max-width: 768px) {
+  .topfooter {
+    flex-direction: column;
+    height: auto;
+    overflow-x: auto;
+  }
+
+  .topfooter .inline-block {
+    width: 90%;
+    height: auto;
+    margin: 10px auto;
+  }
+}
+
