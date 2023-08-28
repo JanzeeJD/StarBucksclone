@@ -274,6 +274,12 @@ a{
     margin: 10px auto;
   }
 }
+
+.topfooter .inline-block li a:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .navbar-container {
     flex-direction: column;
