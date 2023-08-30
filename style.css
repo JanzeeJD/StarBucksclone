@@ -319,6 +319,18 @@ a{
     line-height: 1.9;
   }
 }
+@media (max-width: 768px) {
+  .topfooter {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+  }
+  .topfooter .inline-block {
+    width: 45%;
+    margin: 10px 0;
+  }
+}
+
 @media (max-width: 600px) {
   .row1, .row2, .row3, .row4 {
     margin-bottom: 20px;
