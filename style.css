@@ -88,9 +88,7 @@ p{
 }
 
 .btn{
- 
   cursor: pointer;
-
   background: none;
   border: 1px #000 solid;
   border-radius: 50px;
@@ -98,6 +96,7 @@ p{
   line-height: 1.2;
   text-align: center;
   text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 .btn-sign {
   border-color: #000;
