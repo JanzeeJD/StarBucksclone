@@ -297,6 +297,10 @@ a{
     flex-direction: column;
     margin-top: 10px;
   }
+  .text-md {
+    font-size: 18px;
+    padding: 0 10px;
+  }
 }
 
 
