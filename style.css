@@ -211,8 +211,6 @@ a{
   text-decoration: none;
 }
 
-
-
 .topfooter .inline-block{
 
   width: 16%;
@@ -271,6 +269,7 @@ a{
     width: 90%;
     height: auto;
     margin: 10px auto;
+    margin-bottom: 20px;
   }
 }
 
