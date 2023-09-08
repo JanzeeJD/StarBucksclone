@@ -301,6 +301,11 @@ a{
     font-size: 18px;
     padding: 0 10px;
   }
+  .text-col,
+  .img-col {
+    width: 100%;
+    flex-basis: 100%;
+  }
 }
 
 
