@@ -307,5 +307,11 @@ a{
     flex-basis: 100%;
   }
 }
+@media (max-width: 600px) {
+  .row1, .row2, .row3, .row4 {
+    margin-bottom: 20px;
+  }
+}
+
 
 
