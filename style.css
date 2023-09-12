@@ -118,7 +118,8 @@ p{
   width: 100vw;
   padding-bottom: 30px;
   font-size: 22px;
-
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .row1{
   display: flex;
