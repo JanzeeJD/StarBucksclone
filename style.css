@@ -319,7 +319,10 @@ a{
     width: 80%;
   }
 }
-
+.topfooter .inline-block {
+  width: 100%;
+  text-align: center;
+}
 
 
 
