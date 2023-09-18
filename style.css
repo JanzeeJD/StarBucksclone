@@ -306,6 +306,9 @@ a{
     width: 100%;
     flex-basis: 100%;
   }
+  .img-col img {
+    margin-bottom: 10px;
+  }
   p {
     line-height: 1.9;
   }
@@ -320,6 +323,9 @@ a{
     display: block;
     margin: 10px auto;
     width: 80%;
+  }
+  .box {
+    overflow-x: hidden;
   }
 }
 .topfooter .inline-block {
